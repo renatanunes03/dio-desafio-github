@@ -1,5 +1,5 @@
 # dio-desafio-github
-Primeiro desafio no bootcamp promovido pela Digital Innovation One, Spreed Java Developer.
+Primeiro desafio no bootcamp promovido pela Digital Innovation One com foco em linguagem Java.
 Repositório criado para o desafio de projeto.
 
 
